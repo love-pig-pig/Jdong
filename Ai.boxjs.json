@@ -74,7 +74,7 @@
   },
   { "id": "TY",
             "name": "桃园",
-            "keys": ["tyrjapp","tyrjapp2""tyrjapp3"],
+            "keys": ["tyrjapp","tyrjapp2","tyrjapp3"],
             "author": "@ai",
             "settings": [{
                     "id": "ty",

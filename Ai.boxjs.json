@@ -72,7 +72,8 @@
     "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/fqxs-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/fqxs.png"],
     "script": "https://raw.githubusercontent.com/zhiyu0215/Script/main/QX_Task/fqxs/fqxs.js"
   },
-  { "id": "TY",
+  { 
+      "id": "TY",
             "name": "桃园",
             "keys": ["tyrjapp","tyrjapp2","tyrjapp3"],
             "author": "@ai",
@@ -96,13 +97,11 @@
                     "val": "0",
                     "type": "number",
                     "desc": "0不提现，可设置0 3 5 15 50 "
-                }
-            ],
+                }],
 
     "repo": "https://kireinasakura.coding.net/p/could/d/there/git/raw/master/ty.js",
     "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/fqxs-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/fqxs.png"],
     "script": "https://kireinasakura.coding.net/p/could/d/there/git/raw/master/ty.js"
-  }
-    ] 
-    
+    }
+  ] 
 }

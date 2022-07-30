@@ -71,6 +71,37 @@
     "repo": "https://raw.githubusercontent.com/zhiyu0215/Script/main/QX_Task/fqxs/fqxs.js",
     "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/fqxs-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/fqxs.png"],
     "script": "https://raw.githubusercontent.com/zhiyu0215/Script/main/QX_Task/fqxs/fqxs.js"
+  },
+  { "id": "TY",
+            "name": "桃园",
+            "keys": ["tyrjapp","tyrjapp2""tyrjapp3"],
+            "author": "@ai",
+            "settings": [{
+                    "id": "ty",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
+                },
+                {
+                    "id": "TYCount",
+                    "name": "账号个数",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+                },
+                {
+                    "id": "TYCash",
+                    "name": "提现标准",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "0不提现，可设置0 3 5 15 50 "
+                }
+            ],
+
+    "repo": "https://kireinasakura.coding.net/p/could/d/there/git/raw/master/ty.js",
+    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/fqxs-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/fqxs.png"],
+    "script": "https://kireinasakura.coding.net/p/could/d/there/git/raw/master/ty.js"
   }
     ] 
     

@@ -101,11 +101,9 @@
 
     "repo": "https://kireinasakura.coding.net/p/could/d/there/git/raw/master/ty.js",
     "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/fqxs-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/fqxs.png"],
-    "script": "https://kireinasakura.coding.net/p/could/d/there/git/raw/master/ty.js"
-    }
-  ] 
-},
-  {
+    "script": "https://kireinasakura.coding.net/p/could/d/there/git/raw/master/ty.js",
+ },
+ {
       "id": "checkin",
       "name": "机场签到",
       "descs_html": [
@@ -222,3 +220,5 @@
       ],
       "script": "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js"
     }
+  ] 
+}
